@@ -1,0 +1,1114 @@
+[
+    {
+        "name": "Devonshire Green",
+        "acts": [
+            {
+                "time": "12:00 - 13:00",
+                "name": "Dubcentral DJs"
+            },
+            {
+                "time": "13:00 - 13:30",
+                "name": "Speed for Lovers"
+            },
+            {
+                "time": "13:30 - 14:30",
+                "name": "DJ Andy H"
+            },
+            {
+                "time": "14:30 - 15:00",
+                "name": "Neighbourhood Voices choir"
+            },
+            {
+                "time": "15:00 - 15:30",
+                "name": "Dubcentral DJs"
+            },
+            {
+                "time": "15:30 - 16:00",
+                "name": "Blue Street Brass"
+            },
+            {
+                "time": "16:00 - 16:30",
+                "name": "DJ Broc Pastor"
+            },
+            {
+                "time": "16:30 - 17:00",
+                "name": "The Free Radicals"
+            },
+            {
+                "time": "17:00 - 17:45",
+                "name": "DJ Kom Kom"
+            },
+            {
+                "time": "17:45 - 18:15",
+                "name": "LAIK"
+            },
+            {
+                "time": "18:15 - 18:45",
+                "name": "Romano Jilo Dancers"
+            },
+            {
+                "time": "18:45 - 19:30",
+                "name": "Captain Avery and the Cosmic Triceratops of Intergalactical Peace"
+            },
+            {
+                "time": "19:30 - 20:00",
+                "name": "DJ Iain Hodgson"
+            },
+            {
+                "time": "20:00 - 21:00",
+                "name": "Jungle Lion"
+            }
+        ]
+    },
+    {
+        "name": "Dorothy Pax presents: Pax In The Park at Heeley People's Park ",
+        "acts": [
+            {
+                "time": "12:00 - 12:30",
+                "name": "The Bat Creeps"
+            },
+            {
+                "time": "13:00 - 14:00",
+                "name": "Captain Avery and the Cosmic Triceratops of Intergalactical Peace"
+            },
+            {
+                "time": "14:30 - 15:30",
+                "name": "Poppa's Revival"
+            },
+            {
+                "time": "15:30 - 16:00",
+                "name": "Matt's DJ Bike"
+            },
+            {
+                "time": "16:00 - 17:00",
+                "name": "RipLeKa"
+            },
+            {
+                "time": "17:00 - 17:30",
+                "name": "Sheffield Samba Band"
+            },
+            {
+                "time": "17:30 - 18:30",
+                "name": "Solar Love Society"
+            },
+            {
+                "time": "18:30 - 19:00",
+                "name": "Sheffield Samba Band"
+            },
+            {
+                "time": "19:00 - 20:30",
+                "name": "K.O.G. &amp; the Zongo Brigade"
+            }
+        ]
+    },
+    {
+        "name": "The Washington",
+        "acts": [
+            {
+                "time": "14:30 - 15:20",
+                "name": "General Panic"
+            },
+            {
+                "time": "15:45 - 16:35",
+                "name": "Richard Carlson Band"
+            },
+            {
+                "time": "17:00 - 17:50",
+                "name": "Duck"
+            },
+            {
+                "time": "18:15 - 19:05",
+                "name": "Jumper Boy"
+            },
+            {
+                "time": "19:30 - 20:20",
+                "name": "The Hazy Janes"
+            },
+            {
+                "time": "20:45 - 21:35",
+                "name": "Saintes"
+            },
+            {
+                "time": "22:00 - 22:50",
+                "name": "The Virginmarys"
+            },
+            {
+                "time": "23:00 - 03:00",
+                "name": "DJs"
+            }
+        ]
+    },
+    {
+        "name": "Frog &amp; Parrot",
+        "acts": [
+            {
+                "time": "12:00 - 12:30",
+                "name": "Hugmynd"
+            },
+            {
+                "time": "13:00 - 13:30",
+                "name": "Shade"
+            },
+            {
+                "time": "14:00 - 14:30",
+                "name": "Vigilantes"
+            },
+            {
+                "time": "15:00 - 15:30",
+                "name": "Hoofa"
+            },
+            {
+                "time": "16:00 - 16:30",
+                "name": "Keiran Bowe"
+            },
+            {
+                "time": "17:00 - 17:30",
+                "name": "Apple Shakers"
+            },
+            {
+                "time": "18:00 - 18:30",
+                "name": "George Sims"
+            },
+            {
+                "time": "19:00 - 19:30",
+                "name": "Fergus"
+            },
+            {
+                "time": "20:00 - 20:30",
+                "name": "Furrowed Brow"
+            },
+            {
+                "time": "21:00 - 21:30",
+                "name": "Bollards"
+            },
+            {
+                "time": "22:00 - 22:30",
+                "name": "Jekyll"
+            },
+            {
+                "time": "23:00 - 23:30",
+                "name": "Mimosa"
+            }
+        ]
+    },
+    {
+        "name": "Delicious Clam",
+        "acts": [
+            {
+                "time": "17:00 - 17:30",
+                "name": "Town Cruise"
+            },
+            {
+                "time": "18:00 - 18:30",
+                "name": "Yung KP"
+            },
+            {
+                "time": "19:00 - 19:30",
+                "name": "Big Break"
+            },
+            {
+                "time": "20:00 - 20:30",
+                "name": "Holiday Ghosts"
+            },
+            {
+                "time": "21:00 - 21:30",
+                "name": "Blood Wizard"
+            },
+            {
+                "time": "22:00 - 22:30",
+                "name": "Kaputt"
+            },
+            {
+                "time": "23:00 - 23:30",
+                "name": "The Black Tambourines"
+            },
+            {
+                "time": "23:30 - 04:00",
+                "name": "DJ First Woman in Space"
+            }
+        ]
+    },
+    {
+        "name": "Shakespeares",
+        "acts": [
+            {
+                "time": "14:00 - 14:30",
+                "name": "Pagodas"
+            },
+            {
+                "time": "15:00 - 15:30",
+                "name": "Ye Woodbeast"
+            },
+            {
+                "time": "16:00 - 16:30",
+                "name": "Nothingheads"
+            },
+            {
+                "time": "17:00 - 17:30",
+                "name": "Good News"
+            },
+            {
+                "time": "18:00 - 18:30",
+                "name": "I Set the Sea on Fire"
+            },
+            {
+                "time": "19:00 - 19:30",
+                "name": "Workfriends"
+            },
+            {
+                "time": "20:00 - 20:30",
+                "name": "Nervous Pills"
+            },
+            {
+                "time": "21:00 - 21:30",
+                "name": "Any Old Iron"
+            },
+            {
+                "time": "22:00 - 22:30",
+                "name": "Naguals"
+            },
+            {
+                "time": "23:00 - 00:00",
+                "name": "Femur"
+            }
+        ]
+    },
+    {
+        "name": "Sidney&amp;Matilda",
+        "acts": [
+            {
+                "time": "15:00 - 17:00",
+                "name": "Next Collective"
+            },
+            {
+                "time": "17:00 - 17:20",
+                "name": "Happy Athletic"
+            },
+            {
+                "time": "17:40 - 18:10",
+                "name": "Boxheads"
+            },
+            {
+                "time": "18:30 - 18:50",
+                "name": "We Hate The Sharkman"
+            },
+            {
+                "time": "19:10 - 19:40",
+                "name": "SAINTES"
+            },
+            {
+                "time": "20:00 - 20:20",
+                "name": "General Panic"
+            },
+            {
+                "time": "20:40 - 21:00",
+                "name": "Syrup Club"
+            },
+            {
+                "time": "21:20 - 21:50",
+                "name": "Air Drawn Dagger"
+            },
+            {
+                "time": "22:00 - 04:00",
+                "name": "Basement 10pm-4am: Frisco / Bar 12-4am: Blackwaters x Any Old Iron x Sheafs x Femur"
+            }
+        ]
+    },
+    {
+        "name": "Gatsby",
+        "acts": [
+            {
+                "time": "17:30 - 18:00",
+                "name": "Safari"
+            },
+            {
+                "time": "18:20 - 18:50",
+                "name": "Casual Delights"
+            },
+            {
+                "time": "19:10 - 19:40",
+                "name": "Shelley Byron"
+            },
+            {
+                "time": "20:00 - 20:30",
+                "name": "Into the Red"
+            },
+            {
+                "time": "20:50 - 21:20",
+                "name": "Traces"
+            },
+            {
+                "time": "22:00 - 23:00",
+                "name": "Echoviolet"
+            },
+            {
+                "time": "23:00 - 03:00",
+                "name": "UNIT 3 DJs"
+            }
+        ]
+    },
+    {
+        "name": "Record Junkee",
+        "acts": [
+            {
+                "time": "13:00 - 13:30",
+                "name": "The Last Electric"
+            },
+            {
+                "time": "13:45 - 14:15",
+                "name": "Swan"
+            },
+            {
+                "time": "14:30 - 15:00",
+                "name": "Just One Guy"
+            },
+            {
+                "time": "15:15 - 15:45",
+                "name": "Batman's Treaty"
+            },
+            {
+                "time": "16:00 - 16:30",
+                "name": "The Lonesome Dead"
+            },
+            {
+                "time": "16:45 - 17:15",
+                "name": "Boy Problems"
+            },
+            {
+                "time": "17:30 - 18:00",
+                "name": "TBC"
+            },
+            {
+                "time": "18:15 - 18:45",
+                "name": "Pixia"
+            },
+            {
+                "time": "19:00 - 19:30",
+                "name": "Pennine Suite"
+            },
+            {
+                "time": "19:45 - 20:15",
+                "name": "Precious Metals"
+            },
+            {
+                "time": "20:30 - 21:05",
+                "name": "Richard Carlson Band"
+            },
+            {
+                "time": "21:20 - 21:50",
+                "name": "Concrete Armbands"
+            },
+            {
+                "time": "22:10 - 22:45",
+                "name": "Hydeout"
+            }
+        ]
+    },
+    {
+        "name": "West Street Live",
+        "acts": [
+            {
+                "time": "14:20 - 14:50",
+                "name": "Emma Saville"
+            },
+            {
+                "time": "15:10 - 15:40",
+                "name": "Sophia Garvey"
+            },
+            {
+                "time": "16:00 - 16:30",
+                "name": "The Barnum Meserve"
+            },
+            {
+                "time": "16:50 - 17:20",
+                "name": "Fear Lies"
+            },
+            {
+                "time": "17:40 - 18:10",
+                "name": "The Glass Skies"
+            },
+            {
+                "time": "18:30 - 19:00",
+                "name": "Bodach"
+            },
+            {
+                "time": "19:20 - 19:50",
+                "name": "Caesar Did It"
+            },
+            {
+                "time": "20:10 - 20:40",
+                "name": "Stonedead Villains"
+            },
+            {
+                "time": "21:00 - 21:40",
+                "name": "Damien Luke &amp; the Sweet Beast"
+            },
+            {
+                "time": "22:00 - 22:40",
+                "name": "SPAFF"
+            },
+            {
+                "time": "23:00 - 23:45",
+                "name": "Dr Hackenbush (covers)"
+            },
+            {
+                "time": "23:45 - 04:00",
+                "name": "DJs"
+            }
+        ]
+    },
+    {
+        "name": "Maida Vale",
+        "acts": [
+            {
+                "time": "13:15 - 13:45",
+                "name": "Jamie Fox"
+            },
+            {
+                "time": "14:15 - 14:45",
+                "name": "The Sunshines"
+            },
+            {
+                "time": "15:15 - 15:45",
+                "name": "Joe Symes &amp; the Loving Kind"
+            },
+            {
+                "time": "16:15 - 16:45",
+                "name": "Wolfman &amp; the Laterals"
+            },
+            {
+                "time": "17:15 - 17:45",
+                "name": "Pure Weller"
+            },
+            {
+                "time": "18:00 - 18:30",
+                "name": "Michy Tree"
+            },
+            {
+                "time": "19:00 - 19:30",
+                "name": "The Family Jools"
+            },
+            {
+                "time": "20:00 - 20:30",
+                "name": "The December Flowers"
+            },
+            {
+                "time": "21:00 - 22:00",
+                "name": "What Katie Did Next"
+            }
+        ]
+    },
+    {
+        "name": "Crystal",
+        "acts": [
+            {
+                "time": "14:00 - 14:30",
+                "name": "Alfie &amp; the Avalon"
+            },
+            {
+                "time": "14:50 - 15:20",
+                "name": "Y!kes"
+            },
+            {
+                "time": "15:40 - 16:10",
+                "name": "Harriet Rose"
+            },
+            {
+                "time": "16:30 - 17:00",
+                "name": "Stand Amongst Giants"
+            },
+            {
+                "time": "17:20 - 17:50",
+                "name": "Henderson"
+            },
+            {
+                "time": "18:10 - 18:40",
+                "name": "Sunset Collective"
+            },
+            {
+                "time": "19:00 - 19:30",
+                "name": "The Disaster Party"
+            },
+            {
+                "time": "19:50 - 20:20",
+                "name": "Delilah Bon"
+            },
+            {
+                "time": "20:40 - 21:10",
+                "name": "Rats"
+            },
+            {
+                "time": "21:30 - 22:00",
+                "name": "Avalanche Party"
+            }
+        ]
+    },
+    {
+        "name": "Green Room",
+        "acts": [
+            {
+                "time": "16:00 - 16:30",
+                "name": "Bizarrefae and Jodie Langford"
+            },
+            {
+                "time": "17:00 - 17:30",
+                "name": "Tommyrot"
+            },
+            {
+                "time": "18:00 - 18:30",
+                "name": "The Easy Mornings"
+            },
+            {
+                "time": "19:00 - 19:30",
+                "name": "Private Reg"
+            }
+        ]
+    },
+    {
+        "name": "Network 2 stage",
+        "acts": [
+            {
+                "time": "12:00 - 12:30",
+                "name": "Django Jones and the Mystery Men"
+            },
+            {
+                "time": "13:00 - 13:30",
+                "name": "Shaker"
+            },
+            {
+                "time": "14:00 - 14:30",
+                "name": "The Hazy Janes"
+            },
+            {
+                "time": "15:00 - 15:30",
+                "name": "Guest Singer"
+            },
+            {
+                "time": "16:00 - 16:30",
+                "name": "Lightning Threads"
+            },
+            {
+                "time": "17:00 - 17:30",
+                "name": "Sam Scherdel"
+            },
+            {
+                "time": "18:00 - 18:30",
+                "name": "The Novus"
+            },
+            {
+                "time": "19:00 - 19:30",
+                "name": "Andrew Victor Run"
+            },
+            {
+                "time": "20:00 - 20:30",
+                "name": "Floodhounds"
+            },
+            {
+                "time": "21:00 - 21:35",
+                "name": "Generation"
+            },
+            {
+                "time": "22:00 - 22:45",
+                "name": "Weekend Recovery"
+            }
+        ]
+    },
+    {
+        "name": "Network 3 stage",
+        "acts": [
+            {
+                "time": "12:45 - 13:15",
+                "name": "The Cabrons"
+            },
+            {
+                "time": "13:45 - 14:15",
+                "name": "The Feds"
+            },
+            {
+                "time": "14:45 - 15:15",
+                "name": "Civic Green"
+            },
+            {
+                "time": "15:45 - 16:15",
+                "name": "Jumpers and Collars"
+            },
+            {
+                "time": "16:45 - 17:15",
+                "name": "Saints Among Us"
+            },
+            {
+                "time": "17:45 - 18:15",
+                "name": "Slater"
+            },
+            {
+                "time": "18:45 - 19:15",
+                "name": "Ballamona"
+            },
+            {
+                "time": "19:45 - 20:25",
+                "name": "Nova"
+            },
+            {
+                "time": "20:50 - 21:30",
+                "name": "Teeff"
+            },
+            {
+                "time": "22:00 - 22:45",
+                "name": "Certificate X"
+            }
+        ]
+    },
+    {
+        "name": "Corporation",
+        "acts": [
+            {
+                "time": "13:00 - 13:30",
+                "name": "Apollo's Heart"
+            },
+            {
+                "time": "13:50 - 14:20",
+                "name": "Atomic Samurai"
+            },
+            {
+                "time": "14:40 - 15:10",
+                "name": "Misery's Smile"
+            },
+            {
+                "time": "15:30 - 16:00",
+                "name": "Loyds Trip"
+            },
+            {
+                "time": "16:20 - 16:50",
+                "name": "Lowdrive"
+            },
+            {
+                "time": "17:10 - 17:40",
+                "name": "Coyote Mad Seeds"
+            },
+            {
+                "time": "18:00 - 18:40",
+                "name": "Deltanaut"
+            },
+            {
+                "time": "19:00 - 19:40",
+                "name": "Sour Tusk"
+            },
+            {
+                "time": "20:00 - 20:50",
+                "name": "Doomsday Outlaw"
+            },
+            {
+                "time": "21:15 - 22:30",
+                "name": "Awooga"
+            }
+        ]
+    },
+    {
+        "name": "Hatch",
+        "acts": [
+            {
+                "time": "14:00 - 14:20",
+                "name": "Sleepsang"
+            },
+            {
+                "time": "14:30 - 15:00",
+                "name": "Loic J Tuckey"
+            },
+            {
+                "time": "15:15 - 15:45",
+                "name": "Julia Schauerman"
+            },
+            {
+                "time": "16:00 - 16:30",
+                "name": "Steckdose"
+            },
+            {
+                "time": "16:45 - 17:15",
+                "name": "Juliana Day"
+            },
+            {
+                "time": "17:30 - 17:55",
+                "name": "Bar Pandora"
+            },
+            {
+                "time": "18:05 - 18:20",
+                "name": "Slug Milk"
+            },
+            {
+                "time": "18:30 - 19:10",
+                "name": "Ye Woodbeast"
+            },
+            {
+                "time": "19:20 - 20:00",
+                "name": "Bean Weevil"
+            },
+            {
+                "time": "20:10 - 20:50",
+                "name": "Duck"
+            },
+            {
+                "time": "21:00 - 21:40",
+                "name": "Moni Jitchell"
+            },
+            {
+                "time": "21:50 - 22:30",
+                "name": "Olanza"
+            },
+            {
+                "time": "22:40 - 23:20",
+                "name": "Yo Dynamo"
+            }
+        ]
+    },
+    {
+        "name": "Leopold Square",
+        "acts": [
+            {
+                "time": "13:00 - 14:30",
+                "name": "Phil Johnson"
+            },
+            {
+                "time": "15:00 - 16:30",
+                "name": "Julian Jones"
+            },
+            {
+                "time": "17:00 - 18:30",
+                "name": "Dizzy Club"
+            },
+            {
+                "time": "19:00 - 20:30",
+                "name": "Papa Soul"
+            },
+            {
+                "time": "20:30 - 22:00",
+                "name": "DJ Algie"
+            }
+        ]
+    },
+    {
+        "name": "The Harley",
+        "acts": [
+            {
+                "time": "13:30 - 14:15",
+                "name": "Quebec (Acoustic Set)"
+            },
+            {
+                "time": "14:45 - 15:30",
+                "name": "Free Party"
+            },
+            {
+                "time": "16:00 - 16:45",
+                "name": "Just One Guy"
+            },
+            {
+                "time": "17:15 - 18:00",
+                "name": "Dandelion"
+            },
+            {
+                "time": "18:30 - 19:15",
+                "name": "Speed For Lovers"
+            },
+            {
+                "time": "19:45 - 20:30",
+                "name": "Bloom"
+            },
+            {
+                "time": "21:00 - 22:30",
+                "name": "Django Jones and the Mystery Men"
+            },
+            {
+                "time": "23:00 - 04:00",
+                "name": "Strictly House and Garage DJs"
+            }
+        ]
+    },
+    {
+        "name": "FirePit Rocks",
+        "acts": [
+            {
+                "time": "15:00 - 15:30",
+                "name": "Lee Moore"
+            },
+            {
+                "time": "16:00 - 16:30",
+                "name": "Tristan Bjorn Wrather"
+            },
+            {
+                "time": "17:00 - 17:30",
+                "name": "Boons"
+            },
+            {
+                "time": "18:00 - 18:30",
+                "name": "Isaac Neilson"
+            },
+            {
+                "time": "19:00 - 19:30",
+                "name": "The Toy Trains"
+            },
+            {
+                "time": "20:00 - 20:30",
+                "name": "Aaron James"
+            },
+            {
+                "time": "21:00 - 21:30",
+                "name": "D'Lear"
+            },
+            {
+                "time": "22:00 - 04:00",
+                "name": "DJs"
+            }
+        ]
+    },
+    {
+        "name": "The Church House",
+        "acts": [
+            {
+                "time": "14:30 - 15:30",
+                "name": "Smokin Eskimo"
+            },
+            {
+                "time": "16:00 - 17:00",
+                "name": "Bone Broke Kings"
+            },
+            {
+                "time": "17:30 - 18:30",
+                "name": "Galloping Dick"
+            },
+            {
+                "time": "20:00 - 21:00",
+                "name": "Santiago Kings"
+            },
+            {
+                "time": "21:30 - 23:00",
+                "name": "StOp, sToP"
+            }
+        ]
+    },
+    {
+        "name": "The Globe",
+        "acts": [
+            {
+                "time": "13:00 - 13:45",
+                "name": "Isaac Neilson"
+            },
+            {
+                "time": "14:00 - 14:45",
+                "name": "Wolfsmoke"
+            },
+            {
+                "time": "15:00 - 15:45",
+                "name": "Natural Reverb"
+            },
+            {
+                "time": "16:00 - 16:45",
+                "name": "Toy Trains"
+            },
+            {
+                "time": "17:00 - 17:45",
+                "name": "Django Jones and the Mystery Men"
+            },
+            {
+                "time": "18:00 - 19:00",
+                "name": "Pearl Heart"
+            }
+        ]
+    },
+    {
+        "name": "Indie-Go Resurrection",
+        "acts": [
+            {
+                "time": "12:00 - 12:45",
+                "name": "Chaddy the Barred Baird"
+            },
+            {
+                "time": "13:00 - 13:45",
+                "name": "Lightning Threads"
+            },
+            {
+                "time": "14:00 - 14:45",
+                "name": "Richard Dilks"
+            },
+            {
+                "time": "15:00 - 16:45",
+                "name": "Isaac Neilson"
+            },
+            {
+                "time": "17:00 - 17:45",
+                "name": "Chris Dover"
+            },
+            {
+                "time": "18:00 - 18:45",
+                "name": "Jody Davis"
+            },
+            {
+                "time": "19:00 - 19:45",
+                "name": "Dead Man's Uke"
+            },
+            {
+                "time": "20:00 - 20:45",
+                "name": "Velyted"
+            },
+            {
+                "time": "21:00 - 22:30",
+                "name": "Lee Cope"
+            }
+        ]
+    },
+    {
+        "name": "Plot 22",
+        "acts": [
+            {
+                "time": "18:00 - 20:00",
+                "name": "Reburf"
+            },
+            {
+                "time": "20:00 - 21:00",
+                "name": "Weboyle"
+            },
+            {
+                "time": "21:00 - 22:00",
+                "name": "Emily Ekin"
+            },
+            {
+                "time": "22:00 - 23:00",
+                "name": "Spooner"
+            },
+            {
+                "time": "23:00 - 00:00",
+                "name": "MSTR X"
+            },
+            {
+                "time": "00:00 - 01:00",
+                "name": "DSL Official"
+            },
+            {
+                "time": "01:00 - 02:00",
+                "name": "Neffa T"
+            },
+            {
+                "time": "02:00 - 03:00",
+                "name": "Forca"
+            },
+            {
+                "time": "03:00 - 04:00",
+                "name": "Mr Dubz"
+            },
+            {
+                "time": "04:00 - 05:00",
+                "name": "Luce"
+            },
+            {
+                "time": "05:00 - 06:00",
+                "name": "Minxy"
+            }
+        ]
+    },
+    {
+        "name": "Bloo 88 (Courtyard)",
+        "acts": [
+            {
+                "time": "14:00 - 16:00",
+                "name": "Jamie Williamson"
+            },
+            {
+                "time": "16:00 - 18:00",
+                "name": "Duncan Allott"
+            },
+            {
+                "time": "18:00 - 19:00",
+                "name": "Jenny Fu"
+            },
+            {
+                "time": "19:00 - 20:30",
+                "name": "Dan Metcalfe &amp; Jonathan Hawkins"
+            },
+            {
+                "time": "20:30 - 21:30",
+                "name": "Liam Connolly"
+            }
+        ]
+    },
+    {
+        "name": "Bloo 88 (Main bar)",
+        "acts": [
+            {
+                "time": "17:00 - 20:00",
+                "name": "Steve Charles"
+            },
+            {
+                "time": "20:00 - 23:00",
+                "name": "Joey Fabini &amp; Jez Ward"
+            },
+            {
+                "time": "23:00 - 03:00",
+                "name": "Philip Stokes"
+            }
+        ]
+    },
+    {
+        "name": "Bloo 88 (upstairs bar)",
+        "acts": [
+            {
+                "time": "18:00 - 20:00",
+                "name": "Dave Hardy"
+            },
+            {
+                "time": "20:00 - 22:00",
+                "name": "Jonathan Stevenson"
+            },
+            {
+                "time": "22:00 - 00:00",
+                "name": "Dino"
+            },
+            {
+                "time": "00:00 - 03:00",
+                "name": "Solid State"
+            }
+        ]
+    },
+    {
+        "name": "BAL Fashions",
+        "acts": [
+            {
+                "time": "13:00 - 15:00",
+                "name": "BBS x LL"
+            },
+            {
+                "time": "15:00 - 16:00",
+                "name": "Mondo Radio"
+            },
+            {
+                "time": "16:00 - 17:00",
+                "name": "alex.aubyn"
+            },
+            {
+                "time": "17:00 - 18:00",
+                "name": "Isis Moray"
+            },
+            {
+                "time": "18:00 - 19:30",
+                "name": "Control."
+            },
+            {
+                "time": "19:30 - 20:00",
+                "name": "BBS x LL"
+            },
+            {
+                "time": "20:00 - 22:00",
+                "name": "Posthuman"
+            },
+            {
+                "time": "22:00 - 22:30",
+                "name": "BBS x LL"
+            },
+            {
+                "time": "22:30 - 00:30",
+                "name": "Proteus"
+            },
+            {
+                "time": "00:30 - 01:00",
+                "name": "BBS x LL"
+            }
+        ]
+    }
+]
