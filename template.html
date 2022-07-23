@@ -14,30 +14,46 @@
 </head>
 
 <body>
-    <div class="accordion" id="accordionExample">
-        <% it.stages.forEach(function(stage, i){ %>
-            <div class="card">
-                <div class="card-header" id="heading-<%= i %>">
-                    <h2 class="mb-0">
-                        <button class="btn btn-link" type="button" data-toggle="collapse" 
-                            data-target="#collapse-<%= i %>" aria-expanded="true" aria-controls="collapseOne">
-                            <%~ stage.name %>
-                        </button>
-                    </h2>
-                </div>
+    <div class="container">
+        <div class="row justify-content-center">
+            <button id="collapse-button" type="button" class="btn btn-light">(-)</button>
+        </div>
+        <div class="row">
+            <div class="accordion col-md-12" id="accordion">
+                <% it.stages.forEach(function(stage, i){ %>
+                    <div class="card">
+                        <div class="card-header" id="heading-<%= i %>">
+                            <h2 class="mb-0">
+                                <button class="btn btn-link colla justify-content-between" type="button"
+                                    data-toggle="collapse" data-target="#collapse-<%= i %>" aria-expanded="true"
+                                    aria-controls="collapseOne">
+                                    <span>
+                                        <%~ stage.name %>
+                                    </span>
+                                    <span style="color: grey;font-weight: 400;">&nbsp;
+                                        (<%= stage.acts[0].time%>)
+                                    </span>
+                                </button>
+                            </h2>
+                        </div>
 
-                <div id="collapse-<%= i %>" class="collapse <% if(i === 0) { %> show  <% } %>" aria-labelledby="heading-<%= i %>"
-                    data-parent="#accordionExample">
-                    <div class="card-body">
-                        <ul>
-                        <% stage.acts.forEach(function(act, i){ %>
-                            <%= act.time %> - <%~ act.name %><br/>
-                        <% }) %>      
-                        </ul>
+                        <div id="collapse-<%= i %>" class="panel-collapse collapse <% if(i === 0) { %> show  <% } %>"
+                            aria-labelledby="heading-<%= i %>" data-parent="#accordion">
+                            <div class="card-body">
+                                <p>
+                                    Where? - <a href="<%~ stage.location %>">here</a>
+                                </p>
+                                <ul>
+                                    <% stage.acts.forEach(function(act, i){ %>
+                                        <%= act.time %> - <%~ act.name %><br />
+                                                <% }) %>
+                                </ul>
+                            </div>
+                        </div>
                     </div>
-                </div>
+                    <% }) %>
             </div>
-            <% }) %>
+        </div>
     </div>
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
@@ -50,6 +66,32 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/js/bootstrap.min.js"
         integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6"
         crossorigin="anonymous"></script>
+    <script>
+        $(document).ready(function () {
+            let toggle = true
+            $('#collapse-button').click(() => {
+                toggle = !toggle
+                if (toggle) {
+                    $('#collapse-button').html('(-)')
+                    $('.panel-collapse').show();
+
+                } else {
+                    $('#collapse-button').html('(+)')
+                    $('.panel-collapse').hide();
+                }
+            })
+        });
+    </script>
+    <style>
+        .colla {
+            /* create a grid */
+            min-width: 100%;
+            display: grid;
+            /* create colums. 1fr means use available space */
+            grid-template-columns: 1fr 1fr;
+
+        }
+    </style>
 </body>
 
 </html>

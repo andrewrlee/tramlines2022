@@ -1,67 +1,7 @@
 [
     {
-        "name": "Devonshire Green",
-        "acts": [
-            {
-                "time": "12:00 - 13:00",
-                "name": "Dubcentral DJs"
-            },
-            {
-                "time": "13:00 - 13:30",
-                "name": "Speed for Lovers"
-            },
-            {
-                "time": "13:30 - 14:30",
-                "name": "DJ Andy H"
-            },
-            {
-                "time": "14:30 - 15:00",
-                "name": "Neighbourhood Voices choir"
-            },
-            {
-                "time": "15:00 - 15:30",
-                "name": "Dubcentral DJs"
-            },
-            {
-                "time": "15:30 - 16:00",
-                "name": "Blue Street Brass"
-            },
-            {
-                "time": "16:00 - 16:30",
-                "name": "DJ Broc Pastor"
-            },
-            {
-                "time": "16:30 - 17:00",
-                "name": "The Free Radicals"
-            },
-            {
-                "time": "17:00 - 17:45",
-                "name": "DJ Kom Kom"
-            },
-            {
-                "time": "17:45 - 18:15",
-                "name": "LAIK"
-            },
-            {
-                "time": "18:15 - 18:45",
-                "name": "Romano Jilo Dancers"
-            },
-            {
-                "time": "18:45 - 19:30",
-                "name": "Captain Avery and the Cosmic Triceratops of Intergalactical Peace"
-            },
-            {
-                "time": "19:30 - 20:00",
-                "name": "DJ Iain Hodgson"
-            },
-            {
-                "time": "20:00 - 21:00",
-                "name": "Jungle Lion"
-            }
-        ]
-    },
-    {
-        "name": "Dorothy Pax presents: Pax In The Park at Heeley People's Park ",
+        "name": "Pax In The Park",
+        "location": "https://www.google.com/maps/place/Heeley+People's+Park/@53.3623058,-1.4696761,15z/data=!4m2!3m1!1s0x0:0x498340d1a71dbc48?sa=X&ved=2ahUKEwiv5aaY1Y75AhXQa8AKHWUUA9wQ_BJ6BAhpEAU",
         "acts": [
             {
                 "time": "12:00 - 12:30",
@@ -103,6 +43,7 @@
     },
     {
         "name": "The Washington",
+        "location": "https://www.google.com/maps/place/The+Washington/@53.3778287,-1.4803026,17z/data=!3m1!4b1!4m5!3m4!1s0x4879827e440e171f:0x42574627972322ae!8m2!3d53.3778255!4d-1.4781139",
         "acts": [
             {
                 "time": "14:30 - 15:20",
@@ -140,6 +81,7 @@
     },
     {
         "name": "Frog &amp; Parrot",
+        "location": "https://www.google.com/maps/place/Frog+%26+Parrot/@53.3797253,-1.4808736,17z/data=!3m1!4b1!4m5!3m4!1s0x4879827fd8866779:0x1e5e227067aca212!8m2!3d53.3797222!4d-1.4763889",
         "acts": [
             {
                 "time": "12:00 - 12:30",
@@ -192,44 +134,8 @@
         ]
     },
     {
-        "name": "Delicious Clam",
-        "acts": [
-            {
-                "time": "17:00 - 17:30",
-                "name": "Town Cruise"
-            },
-            {
-                "time": "18:00 - 18:30",
-                "name": "Yung KP"
-            },
-            {
-                "time": "19:00 - 19:30",
-                "name": "Big Break"
-            },
-            {
-                "time": "20:00 - 20:30",
-                "name": "Holiday Ghosts"
-            },
-            {
-                "time": "21:00 - 21:30",
-                "name": "Blood Wizard"
-            },
-            {
-                "time": "22:00 - 22:30",
-                "name": "Kaputt"
-            },
-            {
-                "time": "23:00 - 23:30",
-                "name": "The Black Tambourines"
-            },
-            {
-                "time": "23:30 - 04:00",
-                "name": "DJ First Woman in Space"
-            }
-        ]
-    },
-    {
         "name": "Shakespeares",
+        "location": "https://www.google.com/maps/place/Shakespeare's/@53.3867525,-1.4737568,17z/data=!3m1!4b1!4m5!3m4!1s0x4879787ea11961f3:0xa50d4f7b2b4a22d6!8m2!3d53.3867495!4d-1.4715514",
         "acts": [
             {
                 "time": "14:00 - 14:30",
@@ -275,6 +181,7 @@
     },
     {
         "name": "Sidney&amp;Matilda",
+        "location": "https://www.google.com/maps/place/Sidney+%26+Matilda/@53.3754931,-1.4713958,17z/data=!3m1!4b1!4m5!3m4!1s0x4879835b0b16f349:0xe1ad4e07192963d2!8m2!3d53.3754899!4d-1.4692071",
         "acts": [
             {
                 "time": "15:00 - 17:00",
@@ -315,40 +222,8 @@
         ]
     },
     {
-        "name": "Gatsby",
-        "acts": [
-            {
-                "time": "17:30 - 18:00",
-                "name": "Safari"
-            },
-            {
-                "time": "18:20 - 18:50",
-                "name": "Casual Delights"
-            },
-            {
-                "time": "19:10 - 19:40",
-                "name": "Shelley Byron"
-            },
-            {
-                "time": "20:00 - 20:30",
-                "name": "Into the Red"
-            },
-            {
-                "time": "20:50 - 21:20",
-                "name": "Traces"
-            },
-            {
-                "time": "22:00 - 23:00",
-                "name": "Echoviolet"
-            },
-            {
-                "time": "23:00 - 03:00",
-                "name": "UNIT 3 DJs"
-            }
-        ]
-    },
-    {
         "name": "Record Junkee",
+        "location": "https://www.google.com/maps/place/Record+Junkee/@53.3759091,-1.4727713,15z/data=!4m2!3m1!1s0x0:0x812addbe8395d9a6?sa=X&ved=2ahUKEwiCm-f11Y75AhXJX8AKHScRCvQQ_BJ6BAh9EAU",
         "acts": [
             {
                 "time": "13:00 - 13:30",
@@ -459,6 +334,7 @@
     },
     {
         "name": "Maida Vale",
+        "location": "https://www.google.com/maps/place/Maida+Vale+Sheffield/@53.3813405,-1.4767045,17z/data=!3m1!4b1!4m5!3m4!1s0x4879828020ba815d:0xcccd5d89cad6aabb!8m2!3d53.3813409!4d-1.4745111",
         "acts": [
             {
                 "time": "13:15 - 13:45",
@@ -500,6 +376,7 @@
     },
     {
         "name": "Crystal",
+        "location": " https://www.google.com/maps/place/Crystal+Bar/@53.3813405,-1.4767045,17z/data=!4m5!3m4!1s0x48798280245e85d9:0x15cc757558a1cd0f!8m2!3d53.3805556!4d-1.4736111",
         "acts": [
             {
                 "time": "14:00 - 14:30",
@@ -544,28 +421,8 @@
         ]
     },
     {
-        "name": "Green Room",
-        "acts": [
-            {
-                "time": "16:00 - 16:30",
-                "name": "Bizarrefae and Jodie Langford"
-            },
-            {
-                "time": "17:00 - 17:30",
-                "name": "Tommyrot"
-            },
-            {
-                "time": "18:00 - 18:30",
-                "name": "The Easy Mornings"
-            },
-            {
-                "time": "19:00 - 19:30",
-                "name": "Private Reg"
-            }
-        ]
-    },
-    {
         "name": "Network 2 stage",
+        "location": "https://www.google.com/maps/place/Network+2/@53.3792174,-1.4742592,17z/data=!3m1!4b1!4m5!3m4!1s0x48798281a5d0a907:0xbe065fb67a43daa2!8m2!3d53.3792129!4d-1.4720797",
         "acts": [
             {
                 "time": "12:00 - 12:30",
@@ -615,6 +472,7 @@
     },
     {
         "name": "Network 3 stage",
+        "location": "https://www.google.com/maps/place/Network+2/@53.3792174,-1.4742592,17z/data=!3m1!4b1!4m5!3m4!1s0x48798281a5d0a907:0xbe065fb67a43daa2!8m2!3d53.3792129!4d-1.4720797",
         "acts": [
             {
                 "time": "12:45 - 13:15",
@@ -660,6 +518,7 @@
     },
     {
         "name": "Corporation",
+        "location": "https://www.google.com/maps/place/Corporation/@53.3792174,-1.4742592,17z/data=!4m5!3m4!1s0x4879827e1a7c5f87:0xab2d88c79a9c4fa8!8m2!3d53.3772861!4d-1.4759538",
         "acts": [
             {
                 "time": "13:00 - 13:30",
@@ -705,6 +564,7 @@
     },
     {
         "name": "Hatch",
+        "location": "https://www.google.com/maps/place/Hatch/@53.3696282,-1.4747896,17z/data=!3m1!4b1!4m5!3m4!1s0x4879834bf7404def:0xa073933f0da18f85!8m2!3d53.369625!4d-1.4726009",
         "acts": [
             {
                 "time": "14:00 - 14:20",
@@ -761,32 +621,8 @@
         ]
     },
     {
-        "name": "Leopold Square",
-        "acts": [
-            {
-                "time": "13:00 - 14:30",
-                "name": "Phil Johnson"
-            },
-            {
-                "time": "15:00 - 16:30",
-                "name": "Julian Jones"
-            },
-            {
-                "time": "17:00 - 18:30",
-                "name": "Dizzy Club"
-            },
-            {
-                "time": "19:00 - 20:30",
-                "name": "Papa Soul"
-            },
-            {
-                "time": "20:30 - 22:00",
-                "name": "DJ Algie"
-            }
-        ]
-    },
-    {
         "name": "The Harley",
+        "location": "https://www.google.com/maps/place/Harley+Sheffield/@53.3803295,-1.4870702,17z/data=!3m1!4b1!4m8!3m7!1s0x4879827893e9c75d:0xdd87cce825629986!5m2!4m1!1i2!8m2!3d53.3803263!4d-1.4848815",
         "acts": [
             {
                 "time": "13:30 - 14:15",
@@ -824,6 +660,7 @@
     },
     {
         "name": "FirePit Rocks",
+        "location": "https://www.google.com/maps/place/FirePit+Rocks/@53.38091,-1.4785392,17z/data=!3m1!4b1!4m5!3m4!1s0x4879827ffd97fbd5:0xbcf0e525302a54b7!8m2!3d53.3809081!4d-1.4763514",
         "acts": [
             {
                 "time": "15:00 - 15:30",
@@ -861,6 +698,7 @@
     },
     {
         "name": "The Church House",
+        "location": "https://www.google.com/maps/place/The+Church+House/@53.382942,-1.4724604,17z/data=!3m1!4b1!4m5!3m4!1s0x4879787f358aecdd:0x7494bd5e42972485!8m2!3d53.3829282!4d-1.4702702",
         "acts": [
             {
                 "time": "14:30 - 15:30",
@@ -886,6 +724,7 @@
     },
     {
         "name": "The Globe",
+        "location": "https://www.google.com/maps/place/Globe/@53.382942,-1.4724604,17z/data=!4m5!3m4!1s0x4879828306e3369d:0xe41f02764f950d8e!8m2!3d53.3784012!4d-1.4661307",
         "acts": [
             {
                 "time": "13:00 - 13:45",
@@ -955,7 +794,192 @@
         ]
     },
     {
+        "name": "Bloo 88 (Courtyard)",
+        "location": "https://www.google.com/maps/place/Bloo+88/@53.3841401,-1.4649816,17z/data=!4m5!3m4!1s0x4879827f93367227:0xd714f2e12c2843cb!8m2!3d53.3805563!4d-1.4779335",
+        "acts": [
+            {
+                "time": "14:00 - 16:00",
+                "name": "Jamie Williamson"
+            },
+            {
+                "time": "16:00 - 18:00",
+                "name": "Duncan Allott"
+            },
+            {
+                "time": "18:00 - 19:00",
+                "name": "Jenny Fu"
+            },
+            {
+                "time": "19:00 - 20:30",
+                "name": "Dan Metcalfe &amp; Jonathan Hawkins"
+            },
+            {
+                "time": "20:30 - 21:30",
+                "name": "Liam Connolly"
+            }
+        ]
+    },
+    {
+        "name": "Bloo 88 (Main bar)",
+        "location": "https://www.google.com/maps/place/Bloo+88/@53.3841401,-1.4649816,17z/data=!4m5!3m4!1s0x4879827f93367227:0xd714f2e12c2843cb!8m2!3d53.3805563!4d-1.4779335",
+        "acts": [
+            {
+                "time": "17:00 - 20:00",
+                "name": "Steve Charles"
+            },
+            {
+                "time": "20:00 - 23:00",
+                "name": "Joey Fabini &amp; Jez Ward"
+            },
+            {
+                "time": "23:00 - 03:00",
+                "name": "Philip Stokes"
+            }
+        ]
+    },
+    {
+        "name": "BAL Fashions",
+        "location": "https://www.google.com/maps/place/BAL+Fashions+Speak+Easy/@53.3841748,-1.4676391,17z/data=!3m2!4b1!5s0x4879787781268013:0x9d28b6eeba54121!4m5!3m4!1s0x4879787782cdfd1f:0xf1a1b046c61a3099!8m2!3d53.3841717!4d-1.4631544",
+        "acts": [
+            {
+                "time": "13:00 - 15:00",
+                "name": "BBS x LL"
+            },
+            {
+                "time": "15:00 - 16:00",
+                "name": "Mondo Radio"
+            },
+            {
+                "time": "16:00 - 17:00",
+                "name": "alex.aubyn"
+            },
+            {
+                "time": "17:00 - 18:00",
+                "name": "Isis Moray"
+            },
+            {
+                "time": "18:00 - 19:30",
+                "name": "Control."
+            },
+            {
+                "time": "19:30 - 20:00",
+                "name": "BBS x LL"
+            },
+            {
+                "time": "20:00 - 22:00",
+                "name": "Posthuman"
+            },
+            {
+                "time": "22:00 - 22:30",
+                "name": "BBS x LL"
+            },
+            {
+                "time": "22:30 - 00:30",
+                "name": "Proteus"
+            },
+            {
+                "time": "00:30 - 01:00",
+                "name": "BBS x LL"
+            }
+        ]
+    },
+    {
+        "name": "Green Room",
+        "location": "https://www.google.com/maps/place/The+Green+Room/@53.3796579,-1.4811405,17z/data=!3m1!4b1!4m5!3m4!1s0x4879827fa69c905b:0x4897f57872151b2b!8m2!3d53.3796101!4d-1.4789738",
+        "acts": [
+            {
+                "time": "16:00 - 16:30",
+                "name": "Bizarrefae and Jodie Langford"
+            },
+            {
+                "time": "17:00 - 17:30",
+                "name": "Tommyrot"
+            },
+            {
+                "time": "18:00 - 18:30",
+                "name": "The Easy Mornings"
+            },
+            {
+                "time": "19:00 - 19:30",
+                "name": "Private Reg"
+            }
+        ]
+    },
+    {
+        "name": "Delicious Clam",
+        "location": "https://www.google.com/maps/place/Delicious+Clam/@53.3841869,-1.4655459,17z/data=!3m2!4b1!5s0x4879787781268013:0x9d28b6eeba54121!4m5!3m4!1s0x487978778108429b:0x2993daa38277dc05!8m2!3d53.3841837!4d-1.4633572",
+        "acts": [
+            {
+                "time": "17:00 - 17:30",
+                "name": "Town Cruise"
+            },
+            {
+                "time": "18:00 - 18:30",
+                "name": "Yung KP"
+            },
+            {
+                "time": "19:00 - 19:30",
+                "name": "Big Break"
+            },
+            {
+                "time": "20:00 - 20:30",
+                "name": "Holiday Ghosts"
+            },
+            {
+                "time": "21:00 - 21:30",
+                "name": "Blood Wizard"
+            },
+            {
+                "time": "22:00 - 22:30",
+                "name": "Kaputt"
+            },
+            {
+                "time": "23:00 - 23:30",
+                "name": "The Black Tambourines"
+            },
+            {
+                "time": "23:30 - 04:00",
+                "name": "DJ First Woman in Space"
+            }
+        ]
+    },
+    {
+        "name": "Gatsby",
+        "location": "https://www.google.com/maps/place/Gatsby/@53.3797449,-1.4773693,17z/data=!3m1!4b1!4m5!3m4!1s0x487982806e99412d:0xec1f5d34b95c603d!8m2!3d53.3797428!4d-1.4751741",
+        "acts": [
+            {
+                "time": "17:30 - 18:00",
+                "name": "Safari"
+            },
+            {
+                "time": "18:20 - 18:50",
+                "name": "Casual Delights"
+            },
+            {
+                "time": "19:10 - 19:40",
+                "name": "Shelley Byron"
+            },
+            {
+                "time": "20:00 - 20:30",
+                "name": "Into the Red"
+            },
+            {
+                "time": "20:50 - 21:20",
+                "name": "Traces"
+            },
+            {
+                "time": "22:00 - 23:00",
+                "name": "Echoviolet"
+            },
+            {
+                "time": "23:00 - 03:00",
+                "name": "UNIT 3 DJs"
+            }
+        ]
+    },
+    {
         "name": "Plot 22",
+        "location": "https://www.google.com/maps/place/Plot+22/@53.3841401,-1.4649816,17z/data=!3m2!4b1!5s0x4879787781268013:0x9d28b6eeba54121!4m5!3m4!1s0x487978779ccc7cef:0xa6802fa6d94891f9!8m2!3d53.3841369!4d-1.4627929",
         "acts": [
             {
                 "time": "18:00 - 20:00",
@@ -1004,49 +1028,8 @@
         ]
     },
     {
-        "name": "Bloo 88 (Courtyard)",
-        "acts": [
-            {
-                "time": "14:00 - 16:00",
-                "name": "Jamie Williamson"
-            },
-            {
-                "time": "16:00 - 18:00",
-                "name": "Duncan Allott"
-            },
-            {
-                "time": "18:00 - 19:00",
-                "name": "Jenny Fu"
-            },
-            {
-                "time": "19:00 - 20:30",
-                "name": "Dan Metcalfe &amp; Jonathan Hawkins"
-            },
-            {
-                "time": "20:30 - 21:30",
-                "name": "Liam Connolly"
-            }
-        ]
-    },
-    {
-        "name": "Bloo 88 (Main bar)",
-        "acts": [
-            {
-                "time": "17:00 - 20:00",
-                "name": "Steve Charles"
-            },
-            {
-                "time": "20:00 - 23:00",
-                "name": "Joey Fabini &amp; Jez Ward"
-            },
-            {
-                "time": "23:00 - 03:00",
-                "name": "Philip Stokes"
-            }
-        ]
-    },
-    {
         "name": "Bloo 88 (upstairs bar)",
+        "location": "https://www.google.com/maps/place/Bloo+88/@53.3841401,-1.4649816,17z/data=!4m5!3m4!1s0x4879827f93367227:0xd714f2e12c2843cb!8m2!3d53.3805563!4d-1.4779335",
         "acts": [
             {
                 "time": "18:00 - 20:00",
@@ -1063,51 +1046,6 @@
             {
                 "time": "00:00 - 03:00",
                 "name": "Solid State"
-            }
-        ]
-    },
-    {
-        "name": "BAL Fashions",
-        "acts": [
-            {
-                "time": "13:00 - 15:00",
-                "name": "BBS x LL"
-            },
-            {
-                "time": "15:00 - 16:00",
-                "name": "Mondo Radio"
-            },
-            {
-                "time": "16:00 - 17:00",
-                "name": "alex.aubyn"
-            },
-            {
-                "time": "17:00 - 18:00",
-                "name": "Isis Moray"
-            },
-            {
-                "time": "18:00 - 19:30",
-                "name": "Control."
-            },
-            {
-                "time": "19:30 - 20:00",
-                "name": "BBS x LL"
-            },
-            {
-                "time": "20:00 - 22:00",
-                "name": "Posthuman"
-            },
-            {
-                "time": "22:00 - 22:30",
-                "name": "BBS x LL"
-            },
-            {
-                "time": "22:30 - 00:30",
-                "name": "Proteus"
-            },
-            {
-                "time": "00:30 - 01:00",
-                "name": "BBS x LL"
             }
         ]
     }
